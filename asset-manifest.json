@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mysterious-web/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/mysterious-web/static/js/main.6f072949.chunk.js",
-    "main.js.map": "/mysterious-web/static/js/main.6f072949.chunk.js.map",
+    "main.js": "/mysterious-web/static/js/main.d9ee518f.chunk.js",
+    "main.js.map": "/mysterious-web/static/js/main.d9ee518f.chunk.js.map",
     "runtime-main.js": "/mysterious-web/static/js/runtime-main.27a4732b.js",
     "runtime-main.js.map": "/mysterious-web/static/js/runtime-main.27a4732b.js.map",
     "static/js/2.747b9499.chunk.js": "/mysterious-web/static/js/2.747b9499.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.27a4732b.js",
     "static/js/2.747b9499.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6f072949.chunk.js"
+    "static/js/main.d9ee518f.chunk.js"
   ]
 }
