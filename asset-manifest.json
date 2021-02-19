@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mysterious-web/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mysterious-web/static/js/main.6f072949.chunk.js",
+    "main.js.map": "/mysterious-web/static/js/main.6f072949.chunk.js.map",
+    "runtime-main.js": "/mysterious-web/static/js/runtime-main.27a4732b.js",
+    "runtime-main.js.map": "/mysterious-web/static/js/runtime-main.27a4732b.js.map",
+    "static/js/2.747b9499.chunk.js": "/mysterious-web/static/js/2.747b9499.chunk.js",
+    "static/js/2.747b9499.chunk.js.map": "/mysterious-web/static/js/2.747b9499.chunk.js.map",
+    "static/js/3.27e57c96.chunk.js": "/mysterious-web/static/js/3.27e57c96.chunk.js",
+    "static/js/3.27e57c96.chunk.js.map": "/mysterious-web/static/js/3.27e57c96.chunk.js.map",
+    "index.html": "/mysterious-web/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mysterious-web/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.747b9499.chunk.js.LICENSE.txt": "/mysterious-web/static/js/2.747b9499.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mysterious-web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27a4732b.js",
+    "static/js/2.747b9499.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6f072949.chunk.js"
+  ]
+}
